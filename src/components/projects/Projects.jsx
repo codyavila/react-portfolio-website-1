@@ -1,9 +1,9 @@
 import React from 'react'
-import './services.css'
+import './projects.css'
 
 const Services = () => {
   return (
-    <div>Services</div>
+    <section id='projects'>Projects</section>
   )
 }
 
