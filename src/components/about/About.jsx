@@ -39,8 +39,8 @@ const About = () => {
           </div>
 
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit aut perspiciatis, ab laborum, corporis recusandae facilis vel placeat ipsa voluptatem nulla quos repellat perferendis, nihil ratione distinctio reprehenderit nesciunt esse!
-          </p>
+            Hi! I'm Cody and I love pho. Besides that, I am a Fullstack software engineer and a hobbyist musician. I love to have a good time with folks, but I also love to make the coolest software that I am capable of (and that gets better every day!). I love to talk to people about technology, games, and music. I'd love to have a chat with you!
+            </p>
 
           <a href='#contact' className='btn btn-primary'>Let's Talk</a>
         </div>
