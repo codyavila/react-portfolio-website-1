@@ -84,30 +84,29 @@ h5 {
 
 @media screen and (max-width: 600px) {
     header {
-        height: 95vh;
+        height: 100vh;
+        padding-top: 3rem;
     }
 
     .header_socials, .scroll_down {
         display: none;
     }
 
-    .me-img {
+    /* .me-img {
         border-radius: 3rem;
         position: absolute;
-        left: calc(50% - 13rem);
         overflow: hidden;
-        padding: 1rem 0.5rem 0.5rem 1rem;
     }
 
     .me {
         background: var(--color-bg-variant);
-        width: 25rem;
+        width: 23rem;
         height: 27rem;
         position: absolute;
-        left: calc(50% - 12rem);
+        left: 0%;
         margin-top: 4rem;
         border-radius: 12rem 12rem 4rem 4rem;
         overflow: hidden;
-        padding: 3.5rem 1.5rem 1.5rem 1.5rem;
-    }
+        padding: 1.5rem 1.5rem 1.5rem 1.5rem;
+    } */
 }
