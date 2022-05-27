@@ -1,7 +1,7 @@
 import React, { useRef } from 'react'
 import './contact.css'
 import { RiMailSendFill } from 'react-icons/ri'
-import emailjs, { send } from 'emailjs-com'
+import emailjs from 'emailjs-com'
 
 const Contact = () => {
   const form = useRef();
