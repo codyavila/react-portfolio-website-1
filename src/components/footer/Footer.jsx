@@ -5,7 +5,7 @@ import { BsTwitter, BsInstagram, BsLinkedin, BsFillArrowUpCircleFill } from 'rea
 const Footer = () => {
   return (
     <footer>
-      <a href="#/" className='footer_logo'><BsFillArrowUpCircleFill /></a>
+      <a href="#top" className='footer_logo'><BsFillArrowUpCircleFill /></a>
 
       <ul className='permalinks'>
         <li><a href='#top'>Home</a></li>
